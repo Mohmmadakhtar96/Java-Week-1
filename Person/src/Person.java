@@ -27,7 +27,7 @@ public class Person {
 			}
 			
 		public String toString() {
-			return "\nName: "+name+"\nAge: "+age+"\nJob Title: "+jobtitle;
+			return "Name: "+name+"\nAge: "+age+"\nJob Title: "+jobtitle;
 		}
 		
 }

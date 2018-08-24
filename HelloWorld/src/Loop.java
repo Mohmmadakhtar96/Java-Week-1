@@ -12,7 +12,8 @@ public class Loop {
 		    System.out.println("Garfield hates Mondays");
 		    break;
 			//etc.
-		  case 2:    	System.out.println("Saturday");
+		  case 2:    	
+			  System.out.println("Saturday");
 		    break;
 		  case 5:
 		    System.out.println("Sunday");

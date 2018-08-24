@@ -1,4 +1,3 @@
-
 public class Cars extends Vehicle {
 	
 	public String color;

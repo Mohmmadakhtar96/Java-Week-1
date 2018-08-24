@@ -14,7 +14,7 @@ public class Scan {
 			
 			String gender = sc.next();
 			
-			System.out.println("name " +  "/ngender");
+			System.out.println(name +  gender);
 			
 			sc.close();
 		}
