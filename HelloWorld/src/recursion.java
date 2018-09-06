@@ -2,13 +2,13 @@
 public class recursion {
 	
 		public static void main(String[] args) {
+			public int recursion (int n) {
+			if (n ==1 )
+				return 1;
 			
 			
-				static void p(){  
-					p();  
-				System.out.println("hello");  
-				
-				}  
+			return * recursion(n-1);
 		}
-				  
 }
+}
+			
